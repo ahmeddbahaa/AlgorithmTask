@@ -1,0 +1,2 @@
+# AlgorithmTask
+Graph Coloring Algorithm
